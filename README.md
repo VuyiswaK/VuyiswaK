@@ -25,7 +25,7 @@ Helping build an independent research platform that runs a concentrated equity p
 
 ---
 
-What I do wwhen I'm noy working 
+What I do when I'm not working:
 - ✍️ **Writing**: I share stories and random thoughts on Substack, https://substack.com/@vuyiswakubalasa.
 - 📚 **Reading**: you’ll find me at Silent Book Club meetups around Cape Town.
 - 🏃‍♀️ **Running**: amateur runner; recently ran my first marathon.
