@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Vuyiswa 👋
 
-<!--
-**VuyiswaK/VuyiswaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A quantitative analyst with experience in Python, I enjoy analyzing data and building data driven models from profitability forecasting models to predictive models, and turning messy data into valuable storytelling.
 
-Here are some ideas to get you started:
+I recently completed my MSc in Applied Matheamtics. I'm slowly developing a deep intereest in AI safety. The research landscape is shifting fast, and I’m figuring out where I want to contribute, and that's AI safety.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔭 What I'm currently working on:
+
+Helping build an independent research platform that runs a concentrated equity portfolio — more to come soon.Helping build an independent research platform that runs a concentrated equity portfolio — more to come soon.
+
+<a href="#">
+  <img src="https://img.shields.io/badge/MORUS-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+
+🌱 What I’m currently learning:
+
+ Upskilling in AI safety 
+
+ <a href="#">
+  <img src="https://img.shields.io/badge/AISAFTEY-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+What I do wwhen I'm noy working 
+✍️ **Writing**: I share stories and random thoughts on Substack.
+📚 **Reading**: you’ll find me at Silent Book Club meetups around Cape Town.
+🏃‍♀️ **Running**: amateur runner; check out my Instagram.
