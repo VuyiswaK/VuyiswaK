@@ -10,9 +10,10 @@ I recently completed my MSc in Applied Matheamtics. I'm slowly developing an int
 
 Helping build an independent research platform that runs a concentrated equity portfolio. More to come soon.
 
-<a href="#">
+<a href="https://github.com/VuyiswaK/morus">
   <img src="https://img.shields.io/badge/MORUS-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 
 
 ### 🌱 What I’m currently learning:
